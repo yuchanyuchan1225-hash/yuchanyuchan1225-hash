@@ -29,6 +29,12 @@ A Japan-market customer analytics case with APAC relevance, covering customer id
 
 [View the public case study →](https://yuchanyuchan1225-hash.github.io/Japan-APAC-Customer-Analytics-Data-Governance/)
 
+## Contact
+
+For Japan, China, and APAC projects spanning e-commerce, CRM, customer analytics, and commercial execution:
+
+[yuchanyuchan1225@gmail.com](mailto:yuchanyuchan1225@gmail.com)
+
 ## Focus
 
 Commercial Growth · China · Japan · APAC · E-commerce · CRM · Digital · Customer Experience · Market Operations · Cross-border Execution
