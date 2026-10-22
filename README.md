@@ -1,6 +1,6 @@
 # Yu-chan
 
-## Commercial Growth across China, Japan & APAC
+## Building Commercial Growth across China, Japan & APAC
 
 I work on commercial growth across China, Japan, and APAC markets, with experience spanning e-commerce, CRM, digital customer experience, market operations, and cross-border execution.
 
